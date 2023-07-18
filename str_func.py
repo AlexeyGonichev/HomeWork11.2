@@ -1,5 +1,5 @@
 def letters_down(value):
-    """меняет все буквы слова на заглавные"""
+    """меняет все буквы на заглавные"""
     return value.upper()
 
 def letters_is_down_1(str):
