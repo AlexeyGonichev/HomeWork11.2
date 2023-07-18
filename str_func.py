@@ -1,7 +1,8 @@
 def letters_down(value):
-    """ММеняет все буквы на заглавные"""
+    """  меняет все буквы на заглавные"""
     return value.upper()
 
-def letters_is_down_1(str):
-    """меняет все первые буквы слова на заглавные"""
-    return str.capitalise()
+
+def letters_is_down_1(wtr):
+    """  меняет все первые буквы слова на заглавные"""
+    return wtr.capitalise()
